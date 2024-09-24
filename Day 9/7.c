@@ -6,7 +6,7 @@ int main()
     {
         for (int j = i; j >= 65; j--)
         {
-            printf("%c",j);
+            printf("%c ",j);
         }
         printf("\n");
         
